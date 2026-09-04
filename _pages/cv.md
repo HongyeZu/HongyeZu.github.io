@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+[**Download CV (PDF)**](/files/Hongye_Zu_CV.pdf)
+
 ## Education
 
 **MSc in Interactive Media**  
